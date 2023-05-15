@@ -9,13 +9,13 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+syahrul-fauzi@outlook.co.id
 
 Phone
-+1 (213) 352-2795
++62-812-8220-4999
 
 Birthday
-June 23, 1982
+Feb 24, 1981
 
 Location
 Sacramento, California, USA
