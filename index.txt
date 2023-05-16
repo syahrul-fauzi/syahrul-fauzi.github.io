@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = syahrul fauzi
+syahrul fauzi
 Web developer
 
 Show Contacts
@@ -18,7 +18,9 @@ Birthday
 Feb 24, 1981
 
 Location
-Sacramento, California, USA
+Jl. Pamulang Permai Bar. II Blok A1/12, 
+Pamulang Bar., Kec. Pamulang, 
+Kota Tangerang Selatan, Banten 15417, Indonesia
 
 # navbar
 
